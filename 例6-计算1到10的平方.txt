@@ -1,0 +1,15 @@
+i=1
+L1:
+
+if i<=10
+  j=i*i
+  if j>50
+     goto L_end
+  else
+     puts i + "*" + i + " = " + j
+     i=i+1
+     goto L1
+  end
+end
+
+L_end:

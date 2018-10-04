@@ -1,0 +1,7 @@
+a=1
+b="1"
+c=a+a
+puts a+b
+puts a+c
+puts b+c
+puts (a+c)*6

@@ -1,0 +1,14 @@
+puts   "The demo is how to exchange two var's value"
+a=  "Baidu"
+b = "Google"
+puts "== before ==" 
+puts "a is " +  a + ",b is " + b  + ",c is" + c
+c=a
+a=b
+b=c
+puts "== after =="
+puts "a is " +  a
+puts "b  is "  +  b
+puts  "c is " + c
+puts   a  + " is better than " + b + ",do you think so?"
+puts  886

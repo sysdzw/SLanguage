@@ -1,0 +1,19 @@
+i=1
+
+LOOP_I:
+if i<=9
+ s=""
+ j=1
+
+LOOP_J:
+ n=i*j
+ s=s + j + " * " + i + " = " + n + "	"
+ j=j+1
+ if j>i
+   puts s
+   i=i+1
+   goto LOOP_I
+ else
+   goto LOOP_J
+ end
+end

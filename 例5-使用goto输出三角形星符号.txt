@@ -1,0 +1,12 @@
+a=0
+s=""
+s2=""
+l:
+a=a+1
+if a<=8
+s=s + "*  "
+s2=s2 + a + " "
+puts s
+goto l
+end
+puts s2
