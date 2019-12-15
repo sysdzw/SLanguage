@@ -11,9 +11,14 @@
 
 就这样已经能实现很多功能了。 最最原始的小脚本工具了。大家可以基于这个基础上进行修改拓展强化。
 
+![image](https://img-my.csdn.net/uploads/201004/6/12859_1270536647PKz1.gif)
+
 
 sysdzw
 QQ171977759
 CSDN博客参考：http://blog.csdn.net/sysdzw/article/details/5445796
+
+
+
 
 00:46 2016-01-11
